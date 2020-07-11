@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on **.NET/C#**, **React/Vue/JS**, **PHP/Laravel**, **CentOS/Docker**, **PostgreSQL/Mysql**
+- 🔭 I’m currently working on **.NET/C#**, **React/Vue/JS**, **PHP/Laravel**, **CentOS/Docker**, **PostgreSQL/Mysql...**
 - 🤔 I’m looking for help with lazy. Any ideas that might help? 
 - ⚡ Fun fact: I'm very lazy 🐢
