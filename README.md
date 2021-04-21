@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 - ⚡ Fun fact: I'm very lazy 🐢
 
-[![bravohex's github stats](https://github-readme-stats.vercel.app/api?username=bravohex&show_icons=true&line_height=21&show_icons=true&theme=dracula&count_private=true&cache_seconds=1800)](https://github.com/bravohex)
+[![bravohex's github stats](https://github-readme-stats.vercel.app/api?username=bravohex&show_icons=true&line_height=21&show_icons=true&theme=default&count_private=true&cache_seconds=1800)](https://github.com/bravohex)
